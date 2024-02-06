@@ -3,6 +3,7 @@
 ## Education:
 
  -BA in Geophysics, Colorado School of Mines
+ 
  -High School Diploma, Centennial High School
 
 
