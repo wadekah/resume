@@ -2,7 +2,7 @@
 
 ## Education:
 
- -BA in Geophysics, Colorado School of Mines
+ -BA in Geophysics, Colorado School of Mines (https://geophysics.mines.edu/)
  
  -High School Diploma, Centennial High School
 
